@@ -1,7 +1,13 @@
 # Simple photography page template
 
-Have a look at yourself: https://robbmoskv.github.io/PhotographyWebsiteTemplate/
+Have a look on your own: https://robbmoskv.github.io/PhotographyWebsiteTemplate/
+
+## Documentation
+
+- [x] HTML5 one pager
+- [x] CSS style sheet + fontawsome
+- [x] Small bunch of VanillaJs
 
 ---
 
-> This smooth piece of a template was done with the help of a cool **Traversy Media** Tutorial.
+> This smooth piece of a template was done by the help of a cool **Traversy Media** Tutorial.
