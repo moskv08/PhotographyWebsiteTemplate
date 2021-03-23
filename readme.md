@@ -1,6 +1,6 @@
 # Simple photography page template
 
-Have a look on your own: https://robbmoskv.github.io/PhotographyWebsiteTemplate/
+Have a look on your [own](https://moskv08.github.io/PhotographyWebsiteTemplate/)
 
 ## Documentation
 
